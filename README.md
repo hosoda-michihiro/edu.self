@@ -1,0 +1,2 @@
+# edu.self
+For training
